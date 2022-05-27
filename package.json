@@ -1,0 +1,19 @@
+{
+  "name": "adventofrudi",
+  "version": "1.0.0",
+  "description": "inflicting javascript upon myself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjfz/adventofRudi.git"
+  },
+  "author": "rudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjfz/adventofRudi/issues"
+  },
+  "homepage": "https://github.com/rjfz/adventofRudi#readme"
+}
