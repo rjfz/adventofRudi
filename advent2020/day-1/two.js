@@ -3,7 +3,7 @@ import { parser } from './parser.js';
 const output = () => {
 
     for(let i = 0; i < parser.length; i++ ) {
-        let num1 = parser[i];
+        const num1 = parser[i];
 
         for(let o = 0; o < parser.length; o++){
             const num2 = parser[o];
