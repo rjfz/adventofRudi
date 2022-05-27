@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/rjfz/adventofRudi/issues"
   },
-  "homepage": "https://github.com/rjfz/adventofRudi#readme"
+  "homepage": "https://github.com/rjfz/adventofRudi#readme",
+  "type": "module"
 }
